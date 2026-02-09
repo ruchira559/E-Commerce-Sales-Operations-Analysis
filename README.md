@@ -51,7 +51,7 @@ The processed CSV files were imported into Power BI to create a **Star Schema** 
     git clone [https://github.com/yourusername/ecommerce-growth-analysis.git](https://github.com/yourusername/ecommerce-growth-analysis.git)
     ```
 2.  **Python Analysis:**
-    * Open `E-Commerce Sustainable Growth.ipynb` in Jupyter Notebook or VS Code.
+    * Open `E_Commerce_Analysis.ipynb` in Jupyter Notebook or VS Code.
     * Ensure `sales_dataset.csv` is in the same directory.
     * Run all cells to generate the cleaned CSV files.
 3.  **Power BI Dashboard:**
@@ -60,5 +60,5 @@ The processed CSV files were imported into Power BI to create a **Star Schema** 
 
 ## 📬 Contact
 If you have any questions or feedback, feel free to reach out!
-* **LinkedIn:** [Your Name/Profile Link]
-* **Email:** [Your Email]
+* [LinkedIn](https://www.linkedin.com/in/ruchir-a-308240128/)
+* [Email](ruchira559@gmail.com)
