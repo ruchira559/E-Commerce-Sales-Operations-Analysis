@@ -8,12 +8,9 @@ This project analyzes the sales and operations data of an e-commerce company to 
 ## 📂 File Structure
 | File Name | Description |
 | :--- | :--- |
-| `E-Commerce Sustainable Growth.ipynb` | Jupyter Notebook containing Python code for data cleaning, EDA, and preprocessing. |
-| `E-Commerce Growth Analysis.pbix` | Power BI dashboard file (.pbix) with interactive visuals and DAX measures. |
+| `E_Commerce_Analysis.ipynb` | Jupyter Notebook containing Python code for data cleaning, EDA, and preprocessing. |
+| `E-Commerce-Analysis.pbix` | Power BI dashboard file (.pbix) with interactive visuals and DAX measures. |
 | `sales_dataset.zip` | Raw input dataset containing ~129,000 order records. |
-| `fact_sales.csv` | Cleaned transaction table exported from Python (Fact Table). |
-| `dim_products.csv` | Unique product details (SKU, Category, Size) exported from Python (Dimension Table). |
-| `dim_locations.csv` | Unique shipping locations (City, State, Zip) exported from Python (Dimension Table). |
 | `dashboard.png` | Static screenshot of the final Power BI dashboard. |
 
 ## 🛠️ Technologies Used
